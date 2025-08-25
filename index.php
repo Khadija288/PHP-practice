@@ -1,4 +1,5 @@
 <?php
 $name = "zunasha"
-echo = ""
+echo = $ 
+
 ?>
