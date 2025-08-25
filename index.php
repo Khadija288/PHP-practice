@@ -1,3 +1,3 @@
 <?php
-$name = "Rabia"
+$name = "Fatima"
 ?>
