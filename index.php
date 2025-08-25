@@ -1,5 +1,5 @@
 <?php
-$name = "zunasha"
+$name = "Khadija"
 echo = $name
 
 ?>
