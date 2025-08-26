@@ -6,5 +6,5 @@ $age = 17;
 // Float variable
 $height = 5.4;
 // boolean variables
-
+$
 ?>
