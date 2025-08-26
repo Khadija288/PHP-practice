@@ -2,6 +2,6 @@
 // $name = "Khadija"
 // echo = $name
 // String variable
+$name = "Khadija"
 
-$name = ""
 ?>
