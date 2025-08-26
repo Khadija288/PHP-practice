@@ -3,4 +3,5 @@
 $name = "Khadija"
 // Integer variable
 $age = 17;
+
 ?>
