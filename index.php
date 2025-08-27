@@ -7,5 +7,5 @@ $age = 17;
 $height = 5.4;
 // boolean variables
 $isstudent = true
-echo   
+echo 
 ?>
