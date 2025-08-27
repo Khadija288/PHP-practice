@@ -9,5 +9,5 @@ $height = 5.4;
 $isstudent = true
 echo $name;
 echo $age;
-echo
+echo $
 ?>
