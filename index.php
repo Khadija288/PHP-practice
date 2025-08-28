@@ -13,5 +13,5 @@ echo $height;
 define("PI", 3.1416);
 const SITE_NAME = "MyWebsite";
 echo PI; 
-echo SITE_NAME;
+
 ?>
