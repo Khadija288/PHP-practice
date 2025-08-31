@@ -1,18 +1,30 @@
 <?php
+<?php
 // String variable
-$name = "Khadija"
+$name = "Khadija";
+
 // Integer variable
 $age = 17;
+
 // Float variable
 $height = 5.4;
-// boolean variables
-$isstudent = true
-echo $name;
-echo $age;
-echo $height;
+
+// Boolean variable
+$isstudent = true;
+
+// Output
+echo $name . "<br>";
+echo $age . "<br>";
+echo $height . "<br>";
+
+// Constants
 define("PI", 3.1416);
 const SITE_NAME = "MyWebsite";
+
+// Multiplication
 $a = 4;
 $b = 5;
 echo $a * $b;
+?>
+
 ?>
