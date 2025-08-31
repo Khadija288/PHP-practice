@@ -10,7 +10,7 @@ $name = "Khadija"
 // echo $name;
 // echo $age;
 // echo $height;
-// define("PI", 3.1416);
+define("PI", 3.1416);
 const SITE_NAME = "MyWebsite";
 $a = 4;
 $b = 5;
