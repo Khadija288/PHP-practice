@@ -1,5 +1,4 @@
 <?php
-<?php
 // String variable
 $name = "Khadija";
 
@@ -25,6 +24,5 @@ const SITE_NAME = "MyWebsite";
 $a = 4;
 $b = 5;
 echo $a * $b;
-?>
 
 ?>
