@@ -23,7 +23,7 @@ const SITE_NAME = "MyWebsite";
 // Arithmetic Operation 
 
 // Addition
-$a = 3
+$a = 3;
 $b = 3
 echo $a + $b;
 
