@@ -23,7 +23,8 @@ const SITE_NAME = "MyWebsite";
 // Arithmetic Operation 
 
 // Addition
-$a 
+$a = 3
+$b = 3
 // Multiplication
 $a = 4;
 $b = 5;
