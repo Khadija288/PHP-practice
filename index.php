@@ -25,7 +25,9 @@ const SITE_NAME = "MyWebsite";
 // Addition
 $a = 3
 $b = 3
+echo $a + $b;
 
+// 
 // Multiplication
 $a = 4;
 $b = 5;
