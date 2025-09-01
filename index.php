@@ -21,6 +21,7 @@ define("PI", 3.1416);
 const SITE_NAME = "MyWebsite";
 
 // Arithmetic Operation 
+
 // Multiplication
 $a = 4;
 $b = 5;
