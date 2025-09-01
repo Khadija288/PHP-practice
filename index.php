@@ -27,7 +27,8 @@ $a = 3
 $b = 3
 echo $a + $b;
 
-// 
+// Substraction
+
 // Multiplication
 $a = 4;
 $b = 5;
