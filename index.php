@@ -20,7 +20,7 @@ echo $height . "<br>";
 define("PI", 3.1416);
 const SITE_NAME = "MyWebsite";
 
-// 
+// Arithmetic 
 // Multiplication
 $a = 4;
 $b = 5;
