@@ -38,6 +38,6 @@ echo $a * $b;
 $arr = ["Khadija", "Rabia", "Fatima", "Zunasha"]
 // Associative array
 $AssArray =[
-    "name1"
+    "name1"=> "Khadija"
 ]
 ?>
