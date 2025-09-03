@@ -36,5 +36,5 @@ $b = 5;
 echo $a * $b;
 // Index array
 $arr = ["Khadija", "Rabia", "Fatima", "Zunasha"]
-
+// 
 ?>
