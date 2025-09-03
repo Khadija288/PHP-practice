@@ -34,7 +34,7 @@ $a = 4
 $a = 4;
 $b = 5;
 echo $a * $b;
-//  array
+// Index array
 $arr = ["Khadija"]
 
 ?>
