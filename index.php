@@ -37,5 +37,7 @@ echo $a * $b;
 // Index array
 $arr = ["Khadija", "Rabia", "Fatima", "Zunasha"]
 // Associative array
-$AssArray =
+$AssArray =[
+    
+]
 ?>
