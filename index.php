@@ -43,5 +43,6 @@ $AssArray =[
 ]
 foreach($arr as $value){
    echo sort($arr);
+   
 }
 ?>
