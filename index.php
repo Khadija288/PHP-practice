@@ -41,5 +41,5 @@ $AssArray =[
     "name1"=> "Khadija",
     "name2"=>"Rabia"
 ]
-foreach($arr as $value)
+foreach($arr as $value){}
 ?>
