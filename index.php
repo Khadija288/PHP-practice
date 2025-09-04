@@ -39,6 +39,6 @@ $arr = ["Khadija", "Rabia", "Fatima", "Zunasha"]
 // Associative array
 $AssArray =[
     "name1"=> "Khadija",
-    "name2"=>"rabia"
+    "name2"=>"Rabia"
 ]
 ?>
