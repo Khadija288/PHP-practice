@@ -42,6 +42,6 @@ $AssArray =[
     "name2"=>"Rabia"
 ]
 foreach($arr as $value){
-    
+    asort $arr;
 }
 ?>
