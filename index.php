@@ -24,7 +24,8 @@ const SITE_NAME = "MyWebsite";
 
 // Addition
 $a = 3;
-$b = 3 $a + $b;
+$b = 3;
+ $a + $b;
 
 // Substraction
 $a = 4
