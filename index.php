@@ -32,14 +32,14 @@ $a - $b;
 // Multiplication
  $a * $b;
 // Index array
-$arr = ["Khadija", "Rabia", "Fatima", "Zunasha"]
+$arr = ["Khadija", "Rabia", "Fatima", "Zunasha"];
 // Associative array
-$AssArray =[
+$assarr =[
     "name1"=> "Khadija",
     "name2"=>"Rabia"
-]
+];
 foreach($arr as $value){
    echo sort($arr);
    echo rsort($arr);
-}
+};
 ?>
