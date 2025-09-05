@@ -31,8 +31,7 @@ $b = 3;
 
 // Multiplication
 $a = 4;
-
-echo $a * $b;
+ $a * $b;
 // Index array
 $arr = ["Khadija", "Rabia", "Fatima", "Zunasha"]
 // Associative array
