@@ -30,7 +30,6 @@ $b = 3;
 // Substraction
 
 // Multiplication
-$a = 4;
  $a * $b;
 // Index array
 $arr = ["Khadija", "Rabia", "Fatima", "Zunasha"]
