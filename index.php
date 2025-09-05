@@ -28,7 +28,6 @@ $b = 3;
  $a + $b;
 
 // Substraction
-$a = 4
 
 // Multiplication
 $a = 4;
