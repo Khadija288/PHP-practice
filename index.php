@@ -20,7 +20,7 @@ echo $height . "<br>";
 define("PI", 3.1416);
 const SITE_NAME = "MyWebsite";
 echo PI . "<br>";
-echo SITE_NAME . "<br";
+echo SITE_NAME . "<br>";
 // Arithmetic Operation 
 
 // Addition
