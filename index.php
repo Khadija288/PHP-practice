@@ -28,7 +28,7 @@ $b = 3;
 $a + $b;
 
 // Substraction
-$a  $b;
+$a - $b;
 // Multiplication
  $a * $b;
 // Index array
