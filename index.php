@@ -29,7 +29,7 @@ $b = 3;
 echo $a + $b . "<br>";
 
 // Substraction
-echo $a - $b . "<br";
+echo $a - $b . "<br>";
 // Multiplication
 echo $a * $b;
 // Index array
