@@ -26,7 +26,7 @@ echo SITE_NAME . "<br>";
 // Addition
 $a = 3;
 $b = 3;
-$a + $b;
+echo $a + $b;
 
 // Substraction
 $a - $b;
