@@ -31,7 +31,7 @@ echo $a + $b;
 // Substraction
 echo $a - $b;
 // Multiplication
- $a * $b;
+echo $a * $b;
 // Index array
 // $arr = ["Khadija", "Rabia", "Fatima", "Zunasha"];
 // Associative array
