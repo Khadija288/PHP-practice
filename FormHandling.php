@@ -10,7 +10,7 @@
     <form class="container mt-5 m-5 p-5 mx-5">
   <div class="mb-3">
     <label class="form-label">Name</label>
-    <input type="text" class="form-control" >
+    <input type="text" placeholder="Enter name" class="form-control">
   </div>
   <div class="mb-3">
     <label class="form-label">Email address</label>
