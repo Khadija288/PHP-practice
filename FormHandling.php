@@ -14,7 +14,7 @@
   </div>
   <div class="mb-3">
     <label class="form-label">Email address</label>
-    <input type="email" class="form-control" >
+    <input type="email" class="form-control" placeholder="Enter  >
   </div>
   <div class="mb-3">
     <label class="form-label">Password</label>
