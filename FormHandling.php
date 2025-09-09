@@ -26,7 +26,9 @@
     <label class="form-label">Password</label>
     <input type="password" class="form-control"  placeholder="Enter Passward">
   </div>
-  
+   <div class="valid-feedback">
+      Looks good!
+    </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 </body>
