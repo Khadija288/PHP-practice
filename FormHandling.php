@@ -38,7 +38,9 @@
    <div class="valid-feedback">
       Looks good!
     </div>
-    
+    <div class="invalid-feedback">
+      Enter valid data!
+    </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 </body>
