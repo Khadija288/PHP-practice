@@ -19,6 +19,9 @@
     <label class="form-label">Email address</label>
     <input type="email" class="form-control" placeholder="Enter Email">
   </div>
+   <div class="valid-feedback">
+      Looks good!
+    </div>
   <div class="mb-3">
     <label class="form-label">Password</label>
     <input type="password" class="form-control"  placeholder="Enter Passward">
