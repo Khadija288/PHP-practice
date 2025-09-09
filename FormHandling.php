@@ -10,8 +10,9 @@
     <form class="container mt-5 m-5 p-5 mx-5 needs-validation" novalidate>
   <div class="mb-3">
     <label class="form-label">Name</label>
-    <input type="text" placeholder="Enter name" class="form-control">
+    <input type="text" placeholder="Enter name" class="form-control"require>
   </div>
+  
   <div class="mb-3">
     <label class="form-label">Email address</label>
     <input type="email" class="form-control" placeholder="Enter Email">
