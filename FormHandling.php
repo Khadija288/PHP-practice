@@ -22,7 +22,9 @@
     <label class="form-label">Email address</label>
     <input type="email" class="form-control" placeholder="Enter Email">
   </div>
-  
+  <div class="invalid-feedback">
+      Enter valid data!
+    </div>
    <div class="valid-feedback">
       Looks good!
     </div>
