@@ -16,7 +16,7 @@
       Thanks!
     </div>
      <div class="invalid-feedback">
-      Enter valid !
+      Enter valid data!
     </div>
   <div class="mb-3">
     <label class="form-label">Email address</label>
