@@ -13,7 +13,7 @@
     <input type="text" placeholder="Enter name" class="form-control"require>
   </div>
    <div class="valid-feedback">
-      !
+      Thanks!
     </div>
      <div class="invalid-feedback">
       Enter valid data!
