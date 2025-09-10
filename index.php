@@ -43,4 +43,5 @@ echo $a * $b . "<br>";
 //    echo sort($arr);
 //    echo rsort($arr);
 // };
+print_r 
 ?>
