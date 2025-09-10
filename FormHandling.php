@@ -36,7 +36,7 @@
     <input type="password" class="form-control"  placeholder="Enter Passward">
   </div>
    <div class="valid-feedback">
-      Looks good!
+      !
     </div>
     <div class="invalid-feedback">
       Enter valid data!
