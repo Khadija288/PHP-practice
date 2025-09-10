@@ -26,7 +26,7 @@
       Enter valid data!
     </div>
    <div class="valid-feedback">
-      Looks!
+      s!
     </div>
     <div class="invalid-feedback">
       Enter valid data!
