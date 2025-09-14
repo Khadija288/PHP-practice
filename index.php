@@ -3,7 +3,7 @@
 $name = "Khadija";
 
 // Integer variable
-$age = 7;
+$age = 17;
 
 // Float variable
 $height = 5.4;
