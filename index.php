@@ -6,7 +6,7 @@ $name = "Khadija";
 $age = 17;
 
 // Float variable
-$height = 5.2;
+$height = 5.9;
 
 // Boolean variable
 $student = true;
