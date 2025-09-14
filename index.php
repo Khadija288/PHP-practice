@@ -17,7 +17,7 @@ echo $age . "<br>";
 echo $height . "<br>";
 // Constants
 define("PI", 3.116);
-const SITE_NAME = "My Website";
+const SITE_NAME = "MyWebsite";
 echo PI . "<br>";
 echo SITE_NAME . "<br>";
 // Arithmetic Operation 
