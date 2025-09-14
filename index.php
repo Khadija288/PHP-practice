@@ -1,6 +1,6 @@
 <?php
 // String variable
-$name = "Khadiaj";
+$name = "Khadija";
 
 // Integer variable
 $age = 17;
