@@ -9,16 +9,15 @@ $age = 17;
 $height = 5.2;
 
 // Boolean variable
-$isstudent = true;
+$student = true;
 
 // Output
 echo $name . "<br>";
 echo $age . "<br>";
 echo $height . "<br>";
-
 // Constants
-define("PI", 3.1416);
-const SITE_NAME = "MyWebsite";
+define("PI", 3.116);
+const SITE_NAME = "My Website";
 echo PI . "<br>";
 echo SITE_NAME . "<br>";
 // Arithmetic Operation 
