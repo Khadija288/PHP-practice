@@ -40,6 +40,6 @@ $arr = ["Khadija", "Rabia", "Fatima", "Zunasha"];
 foreach($arr as $value){
     echo sort($arr);
     echo rsort($arr);
-// };
+ };
 print_r 
 ?>
