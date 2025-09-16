@@ -37,7 +37,7 @@ $arr = ["Khadija", "Rabia", "Fatima", "Zunasha"];
 //     "name1"=> "Khadija",
 //     "name2"=>"Rabia"
 // ];
-// foreach($arr as $value){
+foreach($arr as $value){
 //    echo sort($arr);
 //    echo rsort($arr);
 // };
