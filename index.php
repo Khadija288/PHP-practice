@@ -31,7 +31,7 @@ echo $a - $b . "<br>";
 // Multiplication
 echo $a * $b . "<br>";
 // Index array
-// $arr = ["Khadija", "Rabia", "Fatima", "Zunasha"];
+$arr = ["Khadija", "Rabia", "Fatima", "Zunasha"];
 // Associative array
 // $assarr =[
 //     "name1"=> "Khadija",
